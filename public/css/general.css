@@ -1,7 +1,7 @@
 :root {
     --white: white;
     --gray: #3a3a3c;
-    --whiteGray: #cecece;
+    --whiteGray: #cacaca;
     --red: #c80000;
     /* FONTS */
     --FamilyRoboto:'Roboto', sans-serif;
@@ -10,6 +10,7 @@
 * {
     box-sizing: border-box;
     font-family: var(--FamilyRoboto);
+    
 }
 
 a {
